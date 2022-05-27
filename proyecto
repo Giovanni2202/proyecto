@@ -1,0 +1,80 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Victor hoja de vida</title>
+    <link rel="stylesheet" href="Estilofin.css">
+</head>
+
+<body>
+    <script>
+      console.log("Bienvenido") 
+      alert("Bienvenido al Proyecto Final")
+    </script>
+  <body class="grid-container">
+    <header class="header">
+      <h1>Victor Giovanni</h1>
+    </header>
+
+    <nav class="navbar">
+        <h3>Personal</h3>
+          <br>
+          <h4>Nombre</h4>
+          <p>Victor Giovanni Ordoñez romero</p>
+          <h4>Direccion</h4>
+          <p>sebastian lerdo de tejada #51</p>
+          <h4>Numero Telefonico</h4>
+          <p>55-23-10-14-08</p>
+          <h4>Correo Electronico</h4>
+          <p>Giovnnivert@gmail.com</p>
+          <h4>Licencia de Conducir</h4>
+          <p>No</p>
+          <br>
+          <h3>Deztrezas</h3>
+          <h4>Word</h4>
+          <p>★★★★★</p>
+          <h4>Excel</h4>
+          <p>★★★★★</p>
+          <h4>PowerPoint</h4>
+          <p>★★★★★</p>
+          <br>
+          <h3>Lenguajes de Programacion</h3>
+          <h4>Css</h4>
+          <p>★★★★★</p>
+          <h4>JavaScript</h4>
+          <p>★★★★</p>
+          <h4>Java</h4>
+          <p>★</p>
+          <h4>Etiquetas HTML 5</h4>
+          <p>★★★★★</p>
+          <br>
+          <h3>Intereses</h3>
+          <P>Natacion</P>
+          <p>Dibujo</p>
+          <p>VideoJuegos</p>
+    </nav>
+
+    <aside class="sidebar">
+      <div class="img"> <img src="imagenes/Gio.jpg" alt=""></div> 
+    </aside>
+
+    <article class="main">
+        <h5>Mi nombre es Victor Giovanni, Tengo 20 años y estoy en busca de un trabajo RELACIONADO a mis 
+        ESTUDIOS, estoy en busca de Experencias laborales para poder desarollar mis habilidades 
+        profeccionales.
+        </h5>
+        <h5>Soy una persona Tranquila, Creativa, Respetuoso y de Aprendizaje rapido</h5>
+        <h6>Estudios y Certificados</H6>
+            <p>En secundaria lleve contaduria y me certifique con tecnico en contaduria, ya en prepa(Cetis) tome ofimatica
+                y con ello me certifique con tecnico de ofimatica y ahora estoy estudiando mi carrera de TICs 
+            </p>
+    </article>
+
+    <footer class="footer">
+        <h2>Contacto</h2>
+        <label for="email">correo</label><a href="maito: giovannivert@gmail.com">giovannivert@gmail.com</a> <br />
+        <label for="telephone">Tel. celular</label><a href="tel:5523101408">5523101408</a>
+    </footer>
+</body>
+</html>
